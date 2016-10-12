@@ -1,0 +1,20 @@
+.oc-screen {
+    position: relative;
+}
+
+[data-oc-control=ListControl] {
+    position: absolute !important;
+    height: auto !important;
+    top: 75px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.oc-pane {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 75px;
+}
